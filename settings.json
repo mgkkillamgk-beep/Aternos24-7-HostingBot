@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "bigboss",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "boboci-1kLo.aternos.me",
     "port": 49440,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
